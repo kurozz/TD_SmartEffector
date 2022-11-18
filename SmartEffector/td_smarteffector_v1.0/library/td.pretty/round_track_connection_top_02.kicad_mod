@@ -1,0 +1,16 @@
+(footprint "round_track_connection_top_02" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 4.483748 1.227807 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 64fe61db-4f00-472b-afd0-651bf9488d84)
+  )
+  (fp_text value "round_track_connection_top_02" (at 4.483748 2.727807 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f5db43fc-bbe4-464a-a531-43c17bf86b39)
+  )
+  (fp_arc (start 0.00193 -12.755417) (mid 11.128107 6.234252) (end -10.87679 6.663042) (layer "F.Cu") (width 0.4) (tstamp 3774b8ba-417b-462f-abdf-967325553a03))
+  (pad "1" smd roundrect (at -0.060787 -13.35213 6) (size 0.4 1.6) (layers "F.Cu") (roundrect_rratio 0.5) (tstamp cfafa2e9-68fd-47ff-a9aa-7bfff323c3e6))
+  (pad "2" smd roundrect (at -11.3622 7.015713 126) (size 0.4 1.6) (layers "F.Cu") (roundrect_rratio 0.5) (tstamp e2045bb6-7e8a-4b91-85bf-0cca4c70633f))
+)
